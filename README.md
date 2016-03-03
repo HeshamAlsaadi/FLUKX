@@ -5,8 +5,8 @@ Proof of Concept Using Shellsort Algorithm
 The algorithm performs sorting and matching by swaping elements for traceroute navigation based on key pattern regression.
 
 Implementaion contains two proceess of iteration , saperated on each virtual list of elements demonstrated as follow:
-1-(L) is the number of each virtual list value in a giving log file.
-2- Breaking each value into L/2 of vlist in a giving log file.
+1.(L) is the number of each virtual list value in a giving log file.
+2.Breaking each value into L/2 of vlist in a giving log file.
 
 Hypothesis Method:
 ![Sample Output](https://raw.githubusercontent.com/5998/FLUKX/master/equation.jpg)
