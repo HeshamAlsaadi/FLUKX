@@ -20,6 +20,9 @@ Examples are demonstrated on alert log is not necessary always true, but this is
 ######Proof 2 Sorting for fewer:
 Contains two steps of iteration, exploit from a direct route (attempting to infiltrate the time process by matching a giving regression pattern).
 
+![Sample Output]
+(https://raw.githubusercontent.com/5998/FLUKX/master/assmbled.jpg)
+
 ######Thinking Recursively using Bounds Proof technique: 
 * Direct Route is not keen to the simulated pattern.
 * True access considered as Simi threat ( at least one element found).
