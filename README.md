@@ -18,7 +18,7 @@ The implementation contains two processes of **iteration** and **extraction** on
 Examples are demonstrated on alert log is not necessary always true, but this is almost always true in practice,t he illustration in the example is keen to exploit the properties of multipal logs using the concept of shellsort algorithm.
 
 ######Proof 2 Sorting for fewer:
-Contains two steps of iteration, exploit from a direct route (attempting to infiltrate the time process (by matching a giving regression pattern).
+Contains two steps of iteration, exploit from a direct route (attempting to infiltrate the time process by matching a giving regression pattern).
 
 ######Thinking Recursively using Bounds Proof technique: 
 * Direct Route is not keen to the simulated pattern.
