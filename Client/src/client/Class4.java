@@ -4,6 +4,9 @@ package client;
 import java.io.*;
 
 public class Class4 {
+        /**
+     * @param args
+     */
     public static void main(String args[]) {
         try {
             String stringSearch = "The Word Keys Goes Here";
