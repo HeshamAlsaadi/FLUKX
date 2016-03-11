@@ -12,10 +12,8 @@ The implementation contains two processes of **iteration** and **extraction** on
 ###### Hypothesis Method:
 
 ![Sample Output]
-(https://raw.githubusercontent.com/5998/FLUKX/master/equation.jpg)
+(https://raw.githubusercontent.com/5998/FLUKX/master/equation3.jpg)
 
-![Sample Output]
-(https://raw.githubusercontent.com/5998/FLUKX/master/equation2.jpg)
 
 Build based on worse case performance.
 
