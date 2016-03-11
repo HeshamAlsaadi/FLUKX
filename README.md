@@ -14,6 +14,11 @@ The implementation contains two processes of **iteration** and **extraction** on
 ![Sample Output]
 (https://raw.githubusercontent.com/5998/FLUKX/master/equation.jpg)
 
+![Sample Output]
+(https://raw.githubusercontent.com/5998/FLUKX/master/equation2.jpg)
+
+Build based on worse case performance.
+
 ######Proof 1 Exploit the log:
 Examples are demonstrated on alert log is not necessary always true, but this is almost always true in practice,t he illustration in the example is keen to exploit the properties of multipal logs using the concept of shellsort algorithm.
 
