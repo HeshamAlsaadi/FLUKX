@@ -27,7 +27,7 @@ Once the elements take place in adjacent order, two steps of iteration identical
 (https://raw.githubusercontent.com/5998/FLUKX/master/assmbled.jpg)
 
 ######Thinking Recursively using Bounds Proof technique: 
-The following technique explained in paper in order to simulate the analysis process execution of dedicated hypothesis proof discovery into four closing scenarios:
+The following technique is demonstrated in the paper in order to simulate the analysis process execution of dedicated hypothesis proof discovery into four closing scenarios:
 
 * Direct Route is not keen to the simulated pattern.
 * True access considered as Simi threat ( at least one element found).
